@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.css";
 
-const API_URL = "http://127.0.0.1:8000/verify";
+const API_URL = "https://verity-global-innovation-hackathon-1.onrender.com/verify";
 const ACCEPTED = ["image/jpeg", "image/jpg", "image/png"];
 const MAX_PROBLEM = 600;
 const LOADING = [
