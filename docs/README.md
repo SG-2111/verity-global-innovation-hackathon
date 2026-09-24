@@ -265,6 +265,7 @@ verity/
 |   ├── eslint.config.js
 │   ├── package.json
 │   └── .gitignore
+|
 ├── backend/
 │   ├── main.py
 │   ├── verity_engine.py
@@ -275,6 +276,7 @@ verity/
 │   ├── requirements.txt
 │   ├── .env.example
 │   └── .gitignore
+|
 ├── docs/
 |   └── screenshots/
 │       ├── veritypage.png
