@@ -592,9 +592,7 @@ Use environment variables for secrets. Never commit an actual secret key to the 
 
 ## 30. License
 
-This project is developed as a hackathon prototype. Add the appropriate license depending on how you intend to distribute the project.
-
-Example: MIT License
+This project is developed as a hackathon prototype for Global Innovation Hackathon. 
 
 ---
 
